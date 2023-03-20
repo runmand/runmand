@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amanda Chaves</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
-<img align="right" alt="coding" width = "400" src= "https://tenor.com/pt-BR/view/coding-anime-gif-24565564">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
 
 - 🔭 I’m currently working on **Facilit Technology**
 
