@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/78941772/226415974-0b8777fb-1568-4e0f-9581-7b1c4e9e5c65.png)
 
 <h1 align="center">Hi 👋, I'm Amanda Chaves</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h3 align="center">A passionate researcher and developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
 
 - 🔭 I’m currently working on **Facilit Technology**
