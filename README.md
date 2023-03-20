@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amanda Chaves</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
-<img align="right" alt="coding" width = "400" scr="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=runmand" alt="runmand" /></a> </p>
+<img align="right" alt="coding" width = "400" href="https://tenor.com/search/coding-gifs">
 
 - 🔭 I’m currently working on **Facilit Technology**
 
